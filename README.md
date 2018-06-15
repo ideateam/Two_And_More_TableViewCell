@@ -8,6 +8,6 @@
 ------------------------------------------
 
 ------------------------------------------
-![image](https://github.com/feibaichen/Two-And-More-TableViewCell-/blob/master/dataimage/ScreenShot1.png)
+![image](https://github.com/feibaichen/Two_And_More_TableViewCell/blob/master/dataimage/ScreenShot1.png)
 -----------------------------
-![image](https://github.com/feibaichen/Two-And-More-TableViewCell-/blob/master/dataimage/ScreenShot2.png)
+![image](https://github.com/feibaichen/Two_And_More_TableViewCell/blob/master/dataimage/ScreenShot2.png)
