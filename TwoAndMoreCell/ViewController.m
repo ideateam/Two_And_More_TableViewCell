@@ -139,10 +139,20 @@
             }
             
             cell.first_lable_title.text=@"这是一个美好的时代，新的开始";
+            
+            cell.first_image_view_one.contentMode = UIViewContentModeScaleAspectFill;
+            cell.first_image_view_one.clipsToBounds = YES;
+            
+            cell.first_image_view_sec.contentMode = UIViewContentModeScaleAspectFill;
+            cell.first_image_view_sec.clipsToBounds = YES;
+            
+            cell.first_image_view_th.contentMode = UIViewContentModeScaleAspectFill;
+            cell.first_image_view_th.clipsToBounds = YES;
+            
             cell.first_image_view_one.image=[UIImage imageNamed:_F_dataArray[0]];
             cell.first_image_view_sec.image=[UIImage imageNamed:_F_dataArray[1]];
             cell.first_image_view_th.image=[UIImage imageNamed:_F_dataArray[2]];
-            
+        
             finalCell=cell;
 
         }
